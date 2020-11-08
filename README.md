@@ -2,7 +2,7 @@
 
 My name is Ayman and I'm a frontend developer and a designer wannabe based in Barcelona 🌞
 
-Currently:
+#### Currently:
 
 💼 Working part-time as a Frontend Enginner Intern at Adevinta.
 

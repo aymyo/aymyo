@@ -5,7 +5,9 @@ My name is Ayman and I'm a frontend developer and a designer wannabe 🌞
 Currently:
 
 💼 Working part-time as a Frontend Enginner Intern at Adevinta.
+
 🎓 Working on my degree's final project.
+
 🧭 Developing [Antigram](https://github.com/aymyo/antigram-extension)
 
 🌱 Learning Next.js

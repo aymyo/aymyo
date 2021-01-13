@@ -8,9 +8,9 @@ My name is Ayman and I'm a frontend developer and a designer wannabe based in Ba
 
 🎓 Working on my degree's final project.
 
-🧭 Developing [Antigram](https://github.com/aymyo/antigram-extension)
+🧭 Developing [Antigram](https://github.com/aymyo/antigram-extension).
 
-🌱 Learning Next.js
+🌱 Learning Next.js and Typescript.
 
 <!--
 **aymyo/aymyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

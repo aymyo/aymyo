@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ayman and I'm a frontend developer and a designer based in Barcelona 🌞
+My name is Ayman and I'm a frontend developer and designer based in Barcelona 🌞
 
 #### Currently:
 

@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Ayman and I'm a frontend developer and designer based in Barcelona 🌞
-
-#### Currently:
+My name is Ayman and I'm a frontend developer and designer from Barcelona 🌞
 
 💼 Working part-time as a Frontend Enginner Intern at Adevinta.
 
@@ -10,7 +8,9 @@ My name is Ayman and I'm a frontend developer and designer based in Barcelona �
 
 🧭 Developing [Antigram](https://github.com/aymyo/antigram-extension).
 
-🌱 Learning Next.js and Typescript.
+🌱 Interested in sustainable web design and using technology for social change
+
+📝 Learning Next.js and Typescript.
 
 <!--
 **aymyo/aymyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

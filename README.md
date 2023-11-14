@@ -10,9 +10,9 @@ Hi there! I’m a frontend developer and designer from Barcelona.
 
 🎶 I also enjoy singing, playing guitar and writting songs!
 
-<u>Some of my projects</u>
+**Projects**
 
-- 🧭 Maintaining [Antigram](https://github.com/aymyo/antigram-extension).
+- 🧭 Maintaining [Antigram](https://github.com/aymyo/antigram-extension), a Chrome Extension to block Instragam's addictive features.
 
 
 

@@ -4,7 +4,7 @@ Hi there! I’m a frontend developer and designer from Barcelona.
 
 💻 Currently working as a Frontend Engineer at Adevinta and ocasionally doing freelance web development and design.
 
-I like to make pages that are fast and useful, using modern technologies. I'm specially interested in programming and designing technology that blends with social issues and is useful for the people, minding the planet.
+I like to make projects that are fast and useful, using modern technologies. I'm specially interested in programming and designing technology that blends with social issues and is useful for the people, minding the planet.
 
 **Some of my projects**
 - Designed and developed the website for the musician Carlota Flâneur https://carlotaflaneur.com/

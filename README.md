@@ -6,7 +6,7 @@ Hi there! I’m a frontend developer and designer from Barcelona.
 
 I like to make pages that are fast and useful, using modern technologies. I'm specially interested in programming and designing technology that blends with social issues and is useful for the people, minding the planet.
 
-**Some freelance projects I've worked on:**
+**Some of my projects**
 - Designed and developed the website for the musician Carlota Flâneur https://carlotaflaneur.com/
 - Designed and developed the website for Tallerets, a creative workshop's bussines in Barcelona https://www.tallerets.com/
 - Developed [Antigram](https://github.com/aymyo/antigram-extension), a Chrome Extension to block Instragam's addictive features.

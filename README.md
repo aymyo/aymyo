@@ -2,11 +2,14 @@
 
 Hi there! I’m a frontend developer and designer from Barcelona. 
 
-💻 Currently working as a Frontend Engineer at Adevinta
+💻 Currently working as a Frontend Engineer at Adevinta, ocasionally doing freelance web development and design.
+
+I like to make pages that are fast and useful, using modern technologies
 
 **Some projects**
 
--
+- Designed and developed the website for the musician Carlota Flâneur https://carlotaflaneur.com/
+- Designed and developed the website for Tallerets, a creative workshop's bussines in Barcelona https://www.tallerets.com/
 - 🧭 Maintaining [Antigram](https://github.com/aymyo/antigram-extension), a Chrome Extension to block Instragam's addictive features.
 
 

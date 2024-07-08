@@ -2,16 +2,11 @@
 
 Hi there! I’m a frontend developer and designer from Barcelona. 
 
-🌱 Interested in sustainable web design and using technology for social change.
-
-🌻 Proactive, responsible and very organized. Fast learner, curious and creative.
-
 💻 Currently working as a Frontend Engineer at Adevinta
 
-🎶 I also enjoy singing, playing guitar and writting songs!
+**Some projects**
 
-**Projects**
-
+-
 - 🧭 Maintaining [Antigram](https://github.com/aymyo/antigram-extension), a Chrome Extension to block Instragam's addictive features.
 
 

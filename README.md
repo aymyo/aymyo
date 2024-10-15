@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a frontend developer and designer from Barcelona.
+I’m Ayman Ydelo.
 
 Developing & designing digital tools and websites. Specially interested in building things that are useful for the people and respect the Earth.
 

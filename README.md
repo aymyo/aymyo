@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I’m Ayman Ydelo.
+I’m Ayman Ydelo, I develop & design digital tools and websites. Specially interested in building things that are useful for the people and respect the Earth.
 
-Developing & designing digital tools and websites. Specially interested in building things that are useful for the people and respect the Earth.
+Currently working as a Frontend Engineer for Adevinta.
 
 Check out my website to find out more about me and my work: [aymanydelo.pages.dev](https://aymanydelo.pages.dev/)
 
-Currently working as a Frontend Engineer at Adevinta.
 <!--
 **aymyo/aymyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
